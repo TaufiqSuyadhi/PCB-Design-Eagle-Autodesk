@@ -1,5 +1,5 @@
 # PCB Design Using EAGLE Autodesk
-Repository to store my work on electronics system design and PCB layout design using Eagle Autodesk software.
+Learning materials for electronics system design and PCB layout design using Eagle Autodesk software.
 
 1. [Download dan Instalasi](https://www.youtube.com/watch?v=khy6SacrZAY&list=PLy3VBpgdBFy43mMjQgCNAiC0N_Q33jr1R&index=1&pp=iAQB)
 2. [Area Kerja Pembuatan Skematik Elektronika](https://www.youtube.com/watch?v=HmzgtS1UX58&list=PLy3VBpgdBFy43mMjQgCNAiC0N_Q33jr1R&index=2&pp=iAQB)
